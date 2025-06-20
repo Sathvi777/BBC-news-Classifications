@@ -1,4 +1,4 @@
-BBC News Classification with Markov Chains
+#BBC News Classification with Markov Chains
 This project classifies BBC News articles into 5 categories — economics, education, politics, sports, and entertainment — using a Markov Chain-based language model.
 
 ✨ Features
